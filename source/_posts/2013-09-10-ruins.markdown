@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ruins in Belarus
+date: 2013-09-10 11:11:11
+categories: photos travel
+---
+
+Had a great trip to rural areas of Belarus, mostly to old churches. But found a great ruins of old industrial building, totally unspoiled by people. Nice. 
+{% img /images/ruins.jpg %}
